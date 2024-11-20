@@ -1,0 +1,22 @@
+h2{
+    margin: 0;
+    padding: 3rem;
+    color: chocolate;    
+}
+
+h1{
+    color: darkgoldenrod;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    font-size: medium;
+}
+
+p{
+    color: darkgreen;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+span2{
+    color: crimson;
+}
